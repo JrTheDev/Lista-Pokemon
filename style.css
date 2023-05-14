@@ -8,12 +8,12 @@ body {
     font-family: 'Poppins', sans-serif;
     max-width: 1280px;
     margin: auto;
-    background-color: #686256be;
+    background-color: #9e998ebe;
     color: #333333;
 }
 
 body.modo-escuro {
-    background-color: #46443e;
+    background-color: #302f2d;
     color: #f5f5f5;
 }
 
@@ -76,15 +76,15 @@ main {
 }
 
 main .cartao-pokemon:hover {
-    background-color: #96e9e6;
+    background-color: #7cbebc;
 }
 
 .modo-escuro .cartao-pokemon {
-    background-color: #a8a8a8;
+    background-color: #4e4e4e;
 }
 
 .modo-escuro .cartao-pokemon {
-    background-color: #a8a8a8;
+    background-color: rgb(97, 96, 97);
 }
 
 main .cartao-pokemon .informacoes {
